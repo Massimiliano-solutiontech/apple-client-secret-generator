@@ -1,0 +1,21 @@
+{
+    "compilerOptions": {
+        "lib": ["ES2020"],
+        "target": "ES2019",
+        "module": "CommonJS",
+        "moduleResolution": "node",
+        "outDir": "./build",
+        "emitDecoratorMetadata": true,
+        "esModuleInterop": true,
+        "experimentalDecorators": true,
+        "sourceMap": false,
+        "removeComments": true,
+        "noImplicitOverride": true,
+        "resolveJsonModule": true,
+        "forceConsistentCasingInFileNames": true,
+        "noFallthroughCasesInSwitch": true,
+        "importHelpers": true,
+        "skipLibCheck": true
+    },
+    "include": ["src/**/*"]
+}

@@ -1,0 +1,11 @@
+node_modules/
+build/
+secrets/
+
+*.pem
+*.key
+*.crt
+*.cer
+*.der
+*.priv
+*.pub
